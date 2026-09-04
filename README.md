@@ -1,8 +1,6 @@
 # Olá a todos! Sou o Enzo Miguel👍
 |---------------------------------|
-![Minha foto](![Uploading Minha imagem.png…]()
-)
-
+![Minha Foto]("C:\Users\Aluno\Pictures\Minha imagem.png")
 |_________________________________|
 <!--
 **Enzel28/Enzel28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
