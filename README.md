@@ -1,9 +1,5 @@
 # Olá a todos! Sou o Enzo Miguel👍
-|---------------------------------|
-![Minha Foto](<img width="960" height="1280" alt="Minha imagem" src="https://github.com/user-attachments/assets/482b1eda-2714-4435-a7e3-997ddf87ec96" />
-)
 
-|_________________________________|
 <!--
 **Enzel28/Enzel28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-\- 🎓 Atualmente estudo no \\\[Sesi/Senai]\\
+\- 🎓 Atualmente estudo no \Sesi/ Senai\
 
 \- 💻 Estou aprendendo \\\[Desenvolvimento de Sistemas]\\
 
