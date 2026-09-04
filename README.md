@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | \*\*Nome do Projeto 2\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Atividade-Listas.git)) |HTML/ CSS|
 | Flutter / Dart           |
 
-\# → Quanto a Mim? ←
+## → Quanto a Mim? ←
 
 
 
