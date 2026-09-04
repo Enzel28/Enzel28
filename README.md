@@ -14,19 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Atualmente estou aprendendo:
+## Atualmente estou aprendendo:
+| HTML/ CSS/ Front-End/ Back-End |
 
-## 🚀 Meus Projetos
-
-
-
-| Projeto               | Preview Online                        | Tecnologias Usadas        |
+## 🤠 Meus Projetos
 
 |-----------------------|-------------------------------------|--------------------------|
 
-| \*\*Nome do Projeto 1\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Logica_Python_DSI1SESI.git)) | HTML / CSS / JS          |
+| \*\*Nome do Projeto 1\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Logica_Python_DSI1SESI.git)) |Flow/ HTML / |
 
-| \*\*Nome do Projeto 2\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Atividade-Listas.git)) | Node.js / Express / MySQL|
+| \*\*Nome do Projeto 2\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Atividade-Listas.git)) |HTML/ CSS|
 | Flutter / Dart           |
 
 
