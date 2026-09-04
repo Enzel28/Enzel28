@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 
 
-\- 🎓 Atualmente estudo no (Sesi/Senai) <p style="color: blue;">Este texto será azul.</p>
-<p style="color: red;">Este texto será vermelho.</p>
+\- 🎓 Atualmente estudo no <p style="color: red;">(Sesi/Senai)</p>
 
 \- 💻 Estou aprendendo (Desenvolvimento de Sistemas)
 
