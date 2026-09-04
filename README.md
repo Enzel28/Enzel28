@@ -1,5 +1,9 @@
 # Olá a todos! Sou o Enzo Miguel👍
+|---------------------------------|
+![Minha foto](![Uploading Minha imagem.png…]()
+)
 
+|_________________________________|
 <!--
 **Enzel28/Enzel28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Atualmente estou aprendendo:
-| HTML/ CSS/ Front-End/ Back-End |
+| HTML/ CSS/ Front-End/ Back-End |w
 
 ## 🤠 Meus Projetos:
 
@@ -36,15 +40,7 @@ Here are some ideas to get you started:
 
 \---]
 
-\## 📫 Como me encontrar
 
-
-
-\[!\[LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/seuusuario)  
-
-\[!\[Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/seuusuario)  
-
-\[!\[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/seuusuario)
 
 
 <picture>
