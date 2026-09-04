@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-\- 🎓 Atualmente estudo no \Sesi/ Senai\
+\- 🎓 Atualmente estudo no (Sesi/Senai)
 
 \- 💻 Estou aprendendo \\\[Desenvolvimento de Sistemas]\\
 
