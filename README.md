@@ -1,5 +1,6 @@
 # Olá a todos! Sou o Enzo Miguel👍
-
+![Minha Foto](<img width="960" height="1280" alt="Minha_imagem_1mb_q90" src="https://github.com/user-attachments/assets/f66309fd-86f4-4e5e-89f4-739ee73cc53c" />
+)
 <!--
 **Enzel28/Enzel28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Atualmente estou aprendendo:
-| HTML/ CSS/ Front-End/ Back-End |w
+| HTML/ CSS/ Front-End/ Back-End |
 
 ## 🤠 Meus Projetos:
 
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 
 \- 🎓 Atualmente estudo no (Sesi/Senai)
 
-\- 💻 Estou aprendendo \\\[Desenvolvimento de Sistemas]\\
+\- 💻 Estou aprendendo (Desenvolvimento de Sistemas)
 
 
 
