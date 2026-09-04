@@ -26,6 +26,19 @@ Here are some ideas to get you started:
 | \*\*Nome do Projeto 2\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Atividade-Listas.git)) |HTML/ CSS|
 | Flutter / Dart           |
 
+\## → Quanto a Mim? ←
+
+
+
+\- 🎓 Atualmente estudo no \*\*\[Sesi/Senai]\*\*
+
+\- 💻 Estou aprendendo \*\*\[Desenvolvimento de Sistemas]\*\*
+
+
+
+
+\---]
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enzel28/Enzel28/output/snake-dark.svg">
