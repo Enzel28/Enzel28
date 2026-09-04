@@ -20,22 +20,31 @@ Here are some ideas to get you started:
 ## 🤠 Meus Projetos:
 
 
-| \\Nome do Projeto 1\\ |([https://seu-link.com](https://github.com/Enzel28/Logica_Python_DSI1SESI.git)) |Flow/ HTML / |
+| \\Lógica Python\\ |([https://seu-link.com](https://github.com/Enzel28/Logica_Python_DSI1SESI.git)) |Flow/ HTML / |
 
-| \\Nome do Projeto 2\\ |([https://seu-link.com](https://github.com/Enzel28/Atividade-Listas.git)) |HTML/ CSS|
+| \\Lista de Atividades\\ |([https://seu-link.com](https://github.com/Enzel28/Atividade-Listas.git)) |HTML/ CSS|
 
 ## → Quanto a Mim? ←
 
 
 
-\- 🎓 Atualmente estudo no \*\*\[Sesi/Senai]\*\*
+\- 🎓 Atualmente estudo no \\\[Sesi/Senai]\\
 
-\- 💻 Estou aprendendo \*\*\[Desenvolvimento de Sistemas]\*\*
-
+\- 💻 Estou aprendendo \\\[Desenvolvimento de Sistemas]\\
 
 
 
 \---]
+
+\## 📫 Como me encontrar
+
+
+
+\[!\[LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/seuusuario)  
+
+\[!\[Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/seuusuario)  
+
+\[!\[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/seuusuario)
 
 
 <picture>
