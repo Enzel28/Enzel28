@@ -1,4 +1,4 @@
-# Olá a todos! 👋
+# Olá a todos! Sou o Enzo Miguel👍
 
 <!--
 **Enzel28/Enzel28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Atualmente estou aprendendo:
+
+## 🚀 Meus Projetos
+
+
+
+| Projeto               | Preview Online                        | Tecnologias Usadas        |
+
+|-----------------------|-------------------------------------|--------------------------|
+
+| \*\*Nome do Projeto 1\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Logica_Python_DSI1SESI.git)) | HTML / CSS / JS          |
+
+| \*\*Nome do Projeto 2\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Atividade-Listas.git)) | Node.js / Express / MySQL|
+| Flutter / Dart           |
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enzel28/Enzel28/output/snake-dark.svg">
