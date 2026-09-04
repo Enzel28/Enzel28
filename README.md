@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ## 🤠 Meus Projetos
 
-|-----------------------|-------------------------------------|--------------------------|
 
 | \*\*Nome do Projeto 1\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Logica_Python_DSI1SESI.git)) |Flow/ HTML / |
 
