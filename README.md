@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 ## Atualmente estou aprendendo:
 | HTML/ CSS/ Front-End/ Back-End |
 
-## 🤠 Meus Projetos
+## 🤠 Meus Projetos:
 
 
-| \*\*Nome do Projeto 1\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Logica_Python_DSI1SESI.git)) |Flow/ HTML / |
+| \\Nome do Projeto 1\\ |([https://seu-link.com](https://github.com/Enzel28/Logica_Python_DSI1SESI.git)) |Flow/ HTML / |
 
-| \*\*Nome do Projeto 2\*\* | \[🔗 Ver online]([https://seu-link.com](https://github.com/Enzel28/Atividade-Listas.git)) |HTML/ CSS|
-| Flutter / Dart           |
+| \\Nome do Projeto 2\\ |([https://seu-link.com](https://github.com/Enzel28/Atividade-Listas.git)) |HTML/ CSS|
 
 ## → Quanto a Mim? ←
 
