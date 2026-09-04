@@ -1,6 +1,5 @@
 # Olá a todos! Sou o Enzo Miguel👍
-![Minha Foto](<img width="960" height="1280" alt="Minha_imagem_1mb_q90" src="https://github.com/user-attachments/assets/f66309fd-86f4-4e5e-89f4-739ee73cc53c" />
-)
+<img src="./Minha_imagem_1mb_q90.jpg" width="200" alt="Minha foto">
 <!--
 **Enzel28/Enzel28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
