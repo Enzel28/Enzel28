@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## → Quanto a Mim? ←
 
-| \\Linkedin\\ |([[https://seu-link.com](https://github.com/Enzel28/Atividade-Listas.git](https://www.linkedin.com/in/enzo-farias-988990449/)))
+| \\Linkedin\\ |([[www.linkedin.com/in/enzo-farias-988990449))
 
 \- 🎓 Atualmente estudo no (Sesi/Senai).
 
